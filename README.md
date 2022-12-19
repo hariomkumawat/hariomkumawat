@@ -1,15 +1,21 @@
-- <center><h1>👋 Hi, I’m @hariomkumawat</h1>
+<h1 align="center">Hi 👋, I'm Hariom Kumawat</h1>
 <a href="https://app.daily.dev/Hariomkumawat"><img src="https://api.daily.dev/devcards/e03eaff86cb84bfdaf56359936f654de.png?r=zam" width="400" alt="Hariom Kumawat's Dev Card"/></a>
+
+
+
 - 👀 I’m interested in ...web development in python / Django 
 - 🌱 I’m currently learning ...python and django web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail- er.hariomkumawat@gmail.com
-</center>
+
+
+
+
 <!---
 hariomkumawat/hariomkumawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Hariom Kumawat</h1>
+
 <h3 align="center">A passionate python Django full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="hariomkumawat" /> </p>
