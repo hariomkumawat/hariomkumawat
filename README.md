@@ -37,14 +37,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hariomkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hariomkumawat" height="30" width="40" /></a>
-  
-  
-<a href="https://www.linkedin.com/in/hariom-kumawat-797ab420a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariom-kumawat-797ab420a" height="30" width="40" /></a>
-  
-  
-<a href="[https://www.instagram.com/invites/contact/?i=1xxcketfbvioa&utm_content=3v4l1zi](https://www.instagram.com/hari_gujariya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1xxcketfbvioa&utm_content=3v4l1zi" height="30" width="40" /></a>
-  
-  
+<a href="https://www.linkedin.com/in/hariom-kumawat-797ab420a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariom-kumawat-797ab420a" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/hari_gujariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1xxcketfbvioa&utm_content=3v4l1zi" height="30" width="40" /></a>
 <a href="https://medium.com/@er.hariomkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@er.hariomkumawat" height="30" width="40" /></a>
 </p>
 
