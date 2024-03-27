@@ -3,8 +3,8 @@
 
 
 
-<!-- - 👀 I’m interested in ...web development in Python / Django 
-- 🌱 I’m currently learning ...python and Django web development
+<!-- - 👀 I’m interested in ...web development in Python / AI 
+- 🌱 I’m currently learning ...AI and ML Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail- er.hariomkumawat@gmail.com
 
