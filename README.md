@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariomkumawat" alt="hariomkumawat" /></a> </p> -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AI&ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hariomkumawat](https://github.com/hariomkumawat)
 
