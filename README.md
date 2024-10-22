@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Kumawat</h1>
 
 
-
-<a href="https://app.daily.dev/hariomkumawat"><img src="https://api.daily.dev/devcards/v2/BSZIwjbaEiG9xBTxXg1f4.png?type=default&r=cmj" width="356" alt="Hariom Kumawat's Dev Card"/></a>
+<a href="https://app.daily.dev/hariomkumawat"><img src="https://api.daily.dev/devcards/v2/BSZIwjbaEiG9xBTxXg1f4.png?type=default&r=74f" width="356" alt="Hariom Kumawat's Dev Card"/></a>
 
 <!-- - 👀 I’m interested in ...web development in Python / AI 
 - 🌱 I’m currently learning ...AI and ML Python
